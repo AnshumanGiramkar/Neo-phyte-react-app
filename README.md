@@ -1,4 +1,4 @@
-# Neo-phyte: The Ultimate Coding Simulator for Sci-fi Scenes
+# Neo-phyte: Your Coding Simulator for Sci-fi Scenes
 
 Welcome to Neo-phyte, the cutting-edge React app designed to simulate coding scenes for short-film creators, especially those working on Sci-fi, Crime, or Action genres. With Neo-phyte, you can effortlessly create realistic coding sequences featuring "Access Denied" and "Access Granted" messages to add an extra layer of authenticity to your scenes.
 
