@@ -31,7 +31,7 @@ Follow these simple steps to get started with Neo-phyte:
 2. Navigate to the project directory:
 
     ```bash
-    cd neo-phyte
+    cd Neo-phyte-react-app
     ```
 
 3. Install dependencies:
